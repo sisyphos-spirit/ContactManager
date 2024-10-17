@@ -1,0 +1,14 @@
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.exe.config
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.exe
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.pdb
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.csproj.AssemblyReference.cache
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.csproj.CoreCompileInputs.cache
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.exe
+C:\Users\dam\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.pdb
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.exe.config
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.exe
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\bin\Debug\EJ-1.pdb
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.csproj.AssemblyReference.cache
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.exe
+C:\Users\Manuel\source\repos\UT7TareaEntregable1\EJ-1\obj\Debug\EJ-1.pdb
